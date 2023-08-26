@@ -10,7 +10,10 @@ Se ha creado un video detallado que acompaña a esta actualización. El video pr
 
 ### Video Explicativo
 
-[Enlace al Video Explicativo de Cambios](https://youtu.be/MPJbdb1loKk)
+<video width="640" height="360" controls>
+  <source src="videos/nombre_del_video.mp4" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
 
 Asegúrate de revisar el video para obtener una comprensión completa de las mejoras y ajustes realizados.
 
