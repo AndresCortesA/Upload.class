@@ -6,10 +6,10 @@
 
 En este repositorio, se aborda la actualización y corrección de funciones en el archivo `class.upload.php` de Verot. El propósito principal es mejorar y optimizar las operaciones de carga de archivos, asegurando así un proceso más eficiente y fiable.
 
-Se ha creado un video detallado que acompaña a esta actualización. El video proporciona una explicación visual exhaustiva de los cambios implementados y cómo afectan al flujo de trabajo general. Para obtener más detalles, consulta el [video explicativo](https://youtu.be/MPJbdb1loKk).
+Se ha creado un video detallado que acompaña a esta actualización. El video proporciona una explicación visual exhaustiva de los cambios implementados y cómo afectan al flujo de trabajo general. Para obtener más detalles, consulta el [video explicativo](https://www.youtube.com/watch?v=JH6-B-uZ4Bc).
 
 ### Video Explicativo
-[Enlace al Video Explicativo de Cambios](https://www.youtube.com/watch?v=MPJbdb1loKk)
+[Enlace al Video Explicativo de Cambios](https://www.youtube.com/watch?v=JH6-B-uZ4Bc)
 
 Asegúrate de revisar el video para obtener una comprensión completa de las mejoras y ajustes realizados.
 
