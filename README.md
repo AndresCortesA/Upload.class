@@ -9,11 +9,7 @@ En este repositorio, se aborda la actualización y corrección de funciones en e
 Se ha creado un video detallado que acompaña a esta actualización. El video proporciona una explicación visual exhaustiva de los cambios implementados y cómo afectan al flujo de trabajo general. Para obtener más detalles, consulta el [video explicativo](https://youtu.be/MPJbdb1loKk).
 
 ### Video Explicativo
-
-<video width="640" height="360" controls>
-  <source src="videos/nombre_del_video.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[Enlace al Video Explicativo de Cambios](https://www.youtube.com/watch?v=MPJbdb1loKk)
 
 Asegúrate de revisar el video para obtener una comprensión completa de las mejoras y ajustes realizados.
 
